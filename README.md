@@ -1,4 +1,4 @@
-# Online Bookstore
+# Online Bookstore Project --- SQL
 
 ![Company Logo](https://github.com/omvedant01-cloud/Online-Bookstore/blob/main/image.png)
 
