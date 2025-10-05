@@ -1,6 +1,6 @@
 # Online Bookstore
 
-![Company Logo]()
+![Company Logo](https://github.com/omvedant01-cloud/Online-Bookstore/blob/main/image.png)
 
 ## Description
 The Online Book Store Database Project by Om Vedant is a structured SQL-based system designed to manage book inventory, customer information, and order processing. The database consists of three core entities: 
